@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👩‍💻 Shreya | Software Developer
 
-<!--
-**shreyamaurya2612/shreyamaurya2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm an MCA student with a strong interest in **backend development, Java, and AI/ML**.  
+I enjoy solving problems and building structured applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Java | Python | SQL
+- HTML | CSS | JavaScript
+- Git & GitHub
+
+---
+
+### 📂 Featured Work
+- **ATM Interface (Console-Based Java)**
+- **Hospital Management System**
+- **AI-Based Resume Analyzer (Upcoming)**
+
+---
+
+### 🎯 Current Goals
+- Improve problem-solving & DSA
+- Build industry-ready projects
+- Crack a good internship / entry-level role
+
+---
+
+### 📬 Let's Connect
+- LinkedIn: *soon...*
+- GitHub: You're already here 😄
+
